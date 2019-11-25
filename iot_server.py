@@ -100,7 +100,7 @@ def home():
     return """
     <title>How to Predict AIS paths</title>
     <h1>How to View Available MMSI Values</h1> 
-    <h3>Navigate to thetop.dog:5000/<i>vessel type</i></h3>
+    <h3>Navigate to localhost:8080/<i>vessel type</i></h3>
     <p>Acceptable vessel types are: </p>
     <ul>
         <li> /cargo </li>
